@@ -96,4 +96,5 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/zivile-butkute/).
 ## Most IMPORTANTLY
 
 [![gif-have-fun](https://media.tenor.com/zsU8anCyoSIAAAAM/dance-maracas.gif)](https://tenor.com/en-GB/view/dance-maracas-shake-mexican-joe-manganiello-gif-14899381370080108834)
+
 *GIF source: [Tenor](https://tenor.com/en-GB/view/dance-maracas-shake-mexican-joe-manganiello-gif-14899381370080108834)*

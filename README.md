@@ -31,8 +31,6 @@ This script runs everyday to re-assign everybody to a new seat.
 
 1. **Clone the project:**
 
-- Copy the repository to your local machine (using cmd or any other terminal): 
-
 ```
 cmd git clone https://github.com/butkutez/challenge-openspace-classifier.git
 

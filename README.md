@@ -31,32 +31,29 @@ This script runs everyday to re-assign everybody to a new seat.
 
 1. **Clone the project:**
 
-- git clone <repository-url>
-- cd <project-folder>
+- Copy the repository to your local machine (using cmd or any other terminal): 
 
-2. **Install dependencies (OPTIONAL):**
+```
+cmd git clone https://github.com/butkutez/challenge-openspace-classifier.git
 
-- npm install
-- yarn install
+```
+2. **Navigate into the project folder**
 
-3. **clear structure** they can adapt for any project:
+```
+cd Challenge-openspace-classifier
+```
 
-1. Clone → navigate  
-2. Install dependencies  
-3. Run or build (npm start) 
+3. **Run the script**
 
+```
+python main.py
+
+```
 
 ## Usage
 
-1. Clone the repository to your local machine (see section: Installation).
 
-2. To run the script, you can execute the `main.py` file from your command line:
-
-```
-   python main.py
-```
-
-3. The script reads your input file (new_colleagues.csv), and organizes your colleagues to random seat assignments. The resulting seating plan is displayed in your console and also saved to an "Output.csv" file in your root directory. 
+The script reads your input file (new_colleagues.csv), and organizes your colleagues to random seat assignments. The resulting seating plan is displayed in your console and also saved to an "Output.csv" file in your root directory. 
 
 ```python
 

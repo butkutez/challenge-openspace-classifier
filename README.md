@@ -8,9 +8,9 @@ Your company moved to a new office at CEVI Ghent. Its an openspace with 6 tables
 
 This script runs everyday to re-assign everybody to a new seat.
 
-[![coworking img](https://assets.weforum.org/article/image/b1_5XLY0n3MmDU4hETTHgkGd7zvtIrvxcK7151Myj2s.jpg)](https://www.weforum.org/stories/2021/12/5-key-insights-on-the-future-readiness-of-smes/)
+[![coworking img](https://thumbs.dreamstime.com/b/top-view-coworking-people-sitting-together-around-table-business-meeting-young-creative-hipsters-team-analysts-make-114976607.jpg?w=768)](https://www.dreamstime.com/top-view-coworking-people-sitting-together-around-table-business-meeting-young-creative-hipsters-team-analysts-make-image114976607)
 
-*Image source: [World Economic Forum](https://www.weforum.org/stories/2021/12/5-key-insights-on-the-future-readiness-of-smes/)*
+*Image source: [World Economic Forum](https://www.dreamstime.com/top-view-coworking-people-sitting-together-around-table-business-meeting-young-creative-hipsters-team-analysts-make-image114976607)*
 
 ## Repo structure
 

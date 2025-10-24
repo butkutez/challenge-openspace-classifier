@@ -33,7 +33,6 @@ This script runs everyday to re-assign everybody to a new seat.
 
 ```
 cmd git clone https://github.com/butkutez/challenge-openspace-classifier.git
-
 ```
 2. **Navigate into the project folder**
 
@@ -45,7 +44,6 @@ cd Challenge-openspace-classifier
 
 ```
 python main.py
-
 ```
 
 ## Usage

@@ -82,7 +82,7 @@ if __name__ == "__main__":
 This project took two days for completion.
 
 ## Personal Situation
-This project was done as part of the AI Boocamp at BeCode.org. 
+This project was done as part of the AI & Data Science Bootcamp at BeCode.org. 
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/zivile-butkute/).
 
